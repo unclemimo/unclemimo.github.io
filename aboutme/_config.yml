@@ -1,14 +1,14 @@
 baseurl:
-title: Tufte-Jekyll
+title: David Atías personal website
 subtitle: Content-centric blogging
-author: clay harmon
+author: David Atías
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: David Atías personal website
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
-timezone: America/New_York
+timezone: Europe/Spain
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
 post:
